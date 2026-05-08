@@ -1,0 +1,29 @@
+aid: shipengine
+url: https://raw.githubusercontent.com/api-evangelist/shipengine/refs/heads/main/apis.yml
+name: ShipEngine
+x-type: company
+description: >-
+  ShipEngine (an Auctane / ShipStation company) is a shipping API for rate shopping, label generation, tracking, and address validation across major carriers.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Shipping
+  - Logistics
+  - Multi-Carrier
+  - Labels
+  - ShipStation
+created: '2026-05-08'
+modified: '2026-05-08'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.shipengine.com/
+  - type: Plans
+    url: plans/shipengine-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/shipengine-rate-limits.yml
+  - type: FinOps
+    url: finops/shipengine-finops.yml
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
