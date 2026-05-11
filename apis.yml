@@ -24,6 +24,20 @@ common:
     url: rate-limits/shipengine-rate-limits.yml
   - type: FinOps
     url: finops/shipengine-finops.yml
+  - type: Integrations
+    url: https://www.shipengine.com/integrations/
+integrations:
+  - name: UPS
+  - name: USPS
+  - name: FedEx
+  - name: Discogs
+  - name: SnapFulfil
+  - name: APG
+  - name: Team Global Express IPEC
+  - name: Team Global Express Priority
+  - name: QuickBooks
+  - name: Carriers
+  - name: Order Sources
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
