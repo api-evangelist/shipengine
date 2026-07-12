@@ -16,6 +16,8 @@ modified: '2026-05-08'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/shipengine-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/ShipEngine
   - type: LinkedIn
