@@ -1,4 +1,4 @@
-# ShipEngine (shipengine)
+# ShipEngine
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,25 +66,96 @@
 
 ShipEngine (an Auctane / ShipStation company) is a shipping API for rate shopping, label generation, tracking, and address validation across major carriers.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/shipengine/refs/heads/main/apis.yml)
+**Areas:** Shipping · Logistics · Multi-Carrier · Labels · ShipStation
 
-## Type
-- **x-type:** company
+## ShipEngine on APIs.io
 
-## Tags
- - Shipping, Logistics, Multi-Carrier, Labels, ShipStation
+Everything profiled for ShipEngine is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/shipengine/](https://apis.io/providers/shipengine/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
-- **Created:** 2026-05-08
-- **Modified:** 2026-05-08
+### Published properties
 
-## Common Properties
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Shipengine Domain Security](https://apis.io/security/shipengine/shipengine-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Shipengine Plans Pricing](https://apis.io/plans/shipengine/shipengine-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Shipengine Rate Limits](https://apis.io/rate-limits/shipengine/shipengine-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Shipengine Finops](https://apis.io/finops/shipengine/shipengine-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
 - [Website](https://www.shipengine.com/)
-- [Plans](plans/shipengine-plans-pricing.yml) — placeholder, pipeline reconciles later
-- [RateLimits](rate-limits/shipengine-rate-limits.yml) — placeholder
-- [FinOps](finops/shipengine-finops.yml) — FOCUS-aligned placeholder
+- [GitHub](https://github.com/ShipEngine)
 
-## Maintainers
-**FN:** Kin Lane
+## API Evangelist rating
 
-**Email:** kin@apievangelist.com
+**Kin Score 3.7** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 39.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 5.3 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.0** — Telecommunications
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/shipengine/](https://apis.io/providers/shipengine/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ShipEngine: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/shipengine/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
